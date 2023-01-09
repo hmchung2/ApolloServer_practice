@@ -1,0 +1,8 @@
+ 2000  nvm alias default 19.3.0
+
+ 2005  npx create-react-app movieql-client
+
+ 2010  cd movieql-client/
+
+ 2013  npm install @apollo/client graphql react-router-dom@6
+ 
